@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T18:05:34.013Z" agent="5.0 (Windows)" etag="J8-oAjWBVmRLBrLj-c-4" version="14.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-25T19:06:41.218Z" agent="5.0 (Windows)" etag="BymvbJlot1x0D7NRecz9" version="14.7.0" type="github" pages="6">
   <diagram id="QQlsrM-vaduRlZdGIkvf" name="roadmap">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,40 +315,40 @@
       <root>
         <mxCell id="FDRCC7AaXBZEl_odvAMa-0" />
         <mxCell id="FDRCC7AaXBZEl_odvAMa-1" parent="FDRCC7AaXBZEl_odvAMa-0" />
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-2" target="FDRCC7AaXBZEl_odvAMa-4">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-2" target="FDRCC7AaXBZEl_odvAMa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-2" value="API" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="600" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-4" target="FDRCC7AaXBZEl_odvAMa-14">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-4" target="FDRCC7AaXBZEl_odvAMa-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-4" target="FDRCC7AaXBZEl_odvAMa-15">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-4" target="FDRCC7AaXBZEl_odvAMa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-4" value="SKY-FILE" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-4" value="SKY-FILE" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-6" value="Mail" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-6" value="Mail" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="400" y="70" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-21">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-22">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-23">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-7" target="FDRCC7AaXBZEl_odvAMa-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-7" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;SERVER&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-7" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;SERVER&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="90" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-12" value="Mail" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-12" value="Mail" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="110" y="220" width="50" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-14" target="FDRCC7AaXBZEl_odvAMa-7">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-14" target="FDRCC7AaXBZEl_odvAMa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="440" />
@@ -356,10 +356,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-14" value="Inbox" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-14" value="Inbox" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="70" y="320" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-15" target="FDRCC7AaXBZEl_odvAMa-7">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" source="FDRCC7AaXBZEl_odvAMa-15" target="FDRCC7AaXBZEl_odvAMa-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="440" />
@@ -367,20 +367,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-15" value="Outbox" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-15" value="Outbox" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="190" y="320" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-21" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-21" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-22" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-22" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="400" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-23" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-23" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;CLIENT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDRCC7AaXBZEl_odvAMa-28" value="&lt;div align=&quot;left&quot;&gt;- Limited data transfer, max 2 mb.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- 2 mb for everythig&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Data encryption&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Updater Apps&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Installation process&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; * For old and new Windows&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Felaket senaryolari&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Update errors&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * System error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Automatic and manuel backups&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Backup loading process&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Model structure&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
-          <mxGeometry x="540" y="210" width="290" height="450" as="geometry" />
+        <mxCell id="FDRCC7AaXBZEl_odvAMa-28" value="&lt;div align=&quot;left&quot;&gt;- Limited data transfer, max 2 mb.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- 2 mb for everythig&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Data encryption&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Updater Apps&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Installation process&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp; * For old and new Windows&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Felaket senaryolari&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Update errors&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * System error&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Automatic and manuel backups&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp; * Backup loading process&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Model structure&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
+          <mxGeometry x="540" y="210" width="300" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
