@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T07:50:11.323Z" agent="5.0 (Windows)" etag="wpOgVAg22VvhymWr1NMP" version="14.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-03T10:13:07.880Z" agent="5.0 (Windows)" etag="NhQ4QdN81Z9345s-F5MT" version="14.7.4" type="github" pages="6">
   <diagram id="QQlsrM-vaduRlZdGIkvf" name="roadmap">
     <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -411,7 +411,7 @@
         <mxCell id="yav5pWLuXju4_l2dGh6H-6" value="C#" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="1520" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yav5pWLuXju4_l2dGh6H-7" value="Java#" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
+        <mxCell id="yav5pWLuXju4_l2dGh6H-7" value="Java" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
           <mxGeometry x="1520" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yav5pWLuXju4_l2dGh6H-8" value="Electron" style="ellipse;whiteSpace=wrap;html=1;fontSize=26;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="FDRCC7AaXBZEl_odvAMa-1" vertex="1">
@@ -423,7 +423,7 @@
         <mxCell id="6-1uKGbPDTrqTqLzyR74-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FDRCC7AaXBZEl_odvAMa-1" source="6-1uKGbPDTrqTqLzyR74-0" target="yav5pWLuXju4_l2dGh6H-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6-1uKGbPDTrqTqLzyR74-0" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;DESKTOP&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
+        <mxCell id="6-1uKGbPDTrqTqLzyR74-0" value="&lt;div&gt;APP &lt;br&gt;&lt;/div&gt;&lt;div&gt;SERVER&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="FDRCC7AaXBZEl_odvAMa-1">
           <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
