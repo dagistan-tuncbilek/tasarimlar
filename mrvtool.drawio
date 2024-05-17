@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T06:44:30.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PvF8wEDCsHISTGDuPxpl" version="24.3.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-17T08:55:10.670Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="3C8Jb-liGr0FQj1r7wcY" version="24.3.1" type="github" pages="9">
   <diagram id="qkBuRyxA34uiGesJgqng" name="Ida Apps">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WFHajiA5KDGawJQupMBf-0" />
         <mxCell id="WFHajiA5KDGawJQupMBf-1" parent="WFHajiA5KDGawJQupMBf-0" />
@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pQHOXnQul3PYAKlavQ-z" name="SC-MRV">
-    <mxGraphModel dx="1834" dy="1174" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1786" dy="1190" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -698,7 +698,7 @@
         <mxCell id="4eFucvVsdrMbJAv0D_EH-1" value="&lt;p&gt;DATABASE MIGRATION&lt;/p&gt;&lt;p&gt;SECOPORT VALIDATION&lt;/p&gt;&lt;p&gt;LARAVEL INTEGRATION ????&lt;/p&gt;&lt;p&gt;FRONTEND&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="97" y="-22" width="185" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="teivtMeEgfCE11TmIJrV-1" target="teivtMeEgfCE11TmIJrV-7">
+        <mxCell id="teivtMeEgfCE11TmIJrV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="teivtMeEgfCE11TmIJrV-1" target="teivtMeEgfCE11TmIJrV-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1155" y="430" />
@@ -706,13 +706,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="teivtMeEgfCE11TmIJrV-1" target="teivtMeEgfCE11TmIJrV-10">
+        <mxCell id="teivtMeEgfCE11TmIJrV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="teivtMeEgfCE11TmIJrV-1" target="teivtMeEgfCE11TmIJrV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-1" value="ERROR (AI)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-1" value="ERROR (AI)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1100" y="300" width="110" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="teivtMeEgfCE11TmIJrV-2" target="teivtMeEgfCE11TmIJrV-3">
+        <mxCell id="teivtMeEgfCE11TmIJrV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="teivtMeEgfCE11TmIJrV-2" target="teivtMeEgfCE11TmIJrV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1483" y="424" />
@@ -720,7 +720,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="teivtMeEgfCE11TmIJrV-2" target="teivtMeEgfCE11TmIJrV-5">
+        <mxCell id="teivtMeEgfCE11TmIJrV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="teivtMeEgfCE11TmIJrV-2" target="teivtMeEgfCE11TmIJrV-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1483" y="424" />
@@ -728,26 +728,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-2" value="ERROR (USER)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-2" value="ERROR (USER)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="1432" y="306" width="101" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-3" value="IGNORE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-3" value="IGNORE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1353" y="468" width="91" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-5" value="FIXED" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-5" value="FIXED" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1512" y="463.5" width="91" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-7" value="IGNORE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-7" value="IGNORE" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="993" y="480" width="91" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-10" value="FIXED" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-10" value="FIXED" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1206" y="473" width="91" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;SEACOPORT ERROR HANDLING&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Have a list of errors (input needed)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Some of them will be visible by Vessel (input needed)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Every error may have an internal note (Optional)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Every error may have a description &lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(Optional)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- No external notes, users should use Comments feature&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;SEACOPORT ERROR HANDLING&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Have a list of errors (input needed)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Some of them will be visible by Vessel (input needed)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Every error may have an internal note (Optional)&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- Every error may have a description &lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(Optional)&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;- No external notes, users should use Comments feature&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1008" y="-35" width="374" height="245" as="geometry" />
         </mxCell>
-        <mxCell id="teivtMeEgfCE11TmIJrV-15" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Error Status&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Ongoing&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Done&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Ignore&lt;/p&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Created By&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- AI&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- User&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="teivtMeEgfCE11TmIJrV-15" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Error Status&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Ongoing&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Done&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- Ignore&lt;/p&gt;&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Created By&lt;/font&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- AI&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;- User&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1474" y="-29" width="190" height="246" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5Qoy5z6Hjd-uKhAvvR-2" value="LatestValidationLog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2209" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5Qoy5z6Hjd-uKhAvvR-3" value="&lt;div&gt;Search for changes in activities&lt;/div&gt;&lt;div&gt;(Activities, Bunkers, Docs)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2186" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5Qoy5z6Hjd-uKhAvvR-4" value="If any new data/report" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2186" y="97" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw5Qoy5z6Hjd-uKhAvvR-5" value="Find the latest Departure/Arrival before the " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2188" y="194" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
