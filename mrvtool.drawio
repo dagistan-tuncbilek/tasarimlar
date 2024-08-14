@@ -765,7 +765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ot95UKExYzrQpwYxPt3w" name="Doc-Reader">
-    <mxGraphModel dx="2359" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2399" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -802,7 +802,7 @@
         <mxCell id="RghpBte3fwlnd7tMfirD-5" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Rare&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Reports&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RghpBte3fwlnd7tMfirD-6" value="&lt;div&gt;&lt;b&gt;Departure&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Cargo, Ballast, Reefer&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RghpBte3fwlnd7tMfirD-6" value="&lt;div&gt;&lt;b&gt;Departure&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Cargo, Ballast, Reefer, Date&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-220" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RghpBte3fwlnd7tMfirD-7" value="&lt;div&gt;&lt;b&gt;Bunkering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;Port&lt;/strike&gt;, Fuel, &lt;strike&gt;Date&lt;/strike&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -816,6 +816,9 @@
         </mxCell>
         <mxCell id="RghpBte3fwlnd7tMfirD-14" value="&lt;div&gt;&lt;b&gt;Ice End&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;Date&lt;/strike&gt;, &lt;strike&gt;ROB&#39;s&lt;/strike&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="735" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RghpBte3fwlnd7tMfirD-18" value="&lt;div&gt;&lt;b&gt;Emergency End&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;strike&gt;Date&lt;/strike&gt;, &lt;strike&gt;ROB&#39;s&lt;/strike&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="480" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
