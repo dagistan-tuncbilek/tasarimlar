@@ -323,7 +323,7 @@
         <mxCell id="9ZijMlqMIIXF63RplRk_-1" value="&lt;div&gt;SERVER WEB APP&lt;/div&gt;&lt;div&gt;NestJS&lt;/div&gt;&lt;div&gt;MariaDB/Prisma&lt;/div&gt;&lt;div&gt;Angular&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="892" y="321" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9ZijMlqMIIXF63RplRk_-3" value="One way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="9ZijMlqMIIXF63RplRk_-3" value="Two way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="331" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ZijMlqMIIXF63RplRk_-5" value="NOX App Structure" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;" vertex="1" parent="1">
@@ -341,10 +341,10 @@
         <mxCell id="9ZijMlqMIIXF63RplRk_-7" value="&lt;div&gt;DESKTOP APP&lt;/div&gt;&lt;div&gt;Electron&lt;/div&gt;&lt;div&gt;MariaDB/Knex&lt;/div&gt;&lt;div&gt;Angular&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="151" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="9ZijMlqMIIXF63RplRk_-10" value="One way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="9ZijMlqMIIXF63RplRk_-10" value="Two way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ZijMlqMIIXF63RplRk_-11" value="One way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="9ZijMlqMIIXF63RplRk_-11" value="Two way data transfer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
