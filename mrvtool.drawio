@@ -858,7 +858,7 @@
         <mxCell id="67z4AaNxSBfM9Xsn1n7R-30" value="&lt;div&gt;Vessel List&lt;/div&gt;&lt;div&gt;Vessel-A&lt;/div&gt;&lt;div&gt;Vessel-B&lt;/div&gt;&lt;div&gt;&lt;div&gt;Vessel-C&lt;/div&gt;&lt;div&gt;Vessel-K&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="950" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="67z4AaNxSBfM9Xsn1n7R-32" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;u&gt;ROLES&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;SEACOTEC ADMIN&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;COMPANY ADMIN&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;VESSEL&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+        <mxCell id="67z4AaNxSBfM9Xsn1n7R-32" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;u&gt;ROLES&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 255), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;ADMIN&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;EXTERNAL ADMIN&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;VESSEL&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="67z4AaNxSBfM9Xsn1n7R-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="67z4AaNxSBfM9Xsn1n7R-34" target="67z4AaNxSBfM9Xsn1n7R-35">
@@ -870,16 +870,16 @@
         <mxCell id="67z4AaNxSBfM9Xsn1n7R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="67z4AaNxSBfM9Xsn1n7R-34" target="67z4AaNxSBfM9Xsn1n7R-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="67z4AaNxSBfM9Xsn1n7R-34" value="Company Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="67z4AaNxSBfM9Xsn1n7R-34" value="External Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="925" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="67z4AaNxSBfM9Xsn1n7R-35" value="Company (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="67z4AaNxSBfM9Xsn1n7R-35" value="External (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="755" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="67z4AaNxSBfM9Xsn1n7R-36" value="Company (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="67z4AaNxSBfM9Xsn1n7R-36" value="External (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="925" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="67z4AaNxSBfM9Xsn1n7R-37" value="Company (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="67z4AaNxSBfM9Xsn1n7R-37" value="External (Sub) Admin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1105" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
